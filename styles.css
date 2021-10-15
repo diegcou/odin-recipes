@@ -15,8 +15,14 @@
 }
 body{
     background-color: azure;
+    font-family: Verdana;
 }
 
 .recipetext{
     color: cadetblue;
+}
+
+#indexbody{
+    font-family: 'Courier New', Courier, monospace;
+
 }
