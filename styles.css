@@ -4,6 +4,13 @@
 
 .recipe-list {
     color: cadetblue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    justify-content: space-between;
+}
+
+li {
+    margin: 10px 0;
 }
 
 .titles{
@@ -12,6 +19,7 @@
 
 #header{
     color: cadetblue;
+    margin-left: 15px;
 }
 body{
     background-color: azure;
