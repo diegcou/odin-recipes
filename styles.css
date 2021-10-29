@@ -1,4 +1,4 @@
-#bodystyle{
+/* #bodystyle {
     background-color: azure;
     font-family: monospace;
 }
@@ -28,9 +28,28 @@ li {
 
 .recipetext{
     color: cadetblue;
+} */
+
+#indextitle {
+    color: cadetblue;
+    font-size: 2.8em;
+}
+#indexbody {
+    background-color: azure;
+    font-family: monospace;
+    color: cadetblue;
 }
 
-#indexbody{
-    font-family: 'Courier New', Courier, monospace;
+li {
+    margin:  10px 0;
+}
 
+.recipebody {
+    background-color: azure;
+    font-family: monospace;
+    color: cadetblue;
+}
+
+.recipetitle {
+    font-size: 2.8em;
 }
